@@ -8,11 +8,13 @@ a) "git add ." for adding all and "git add file" for adding a single file
 b) "git init" to initiallise the directory
 to remove file from a staging area, use "git rm -cached [file name]"
 
+
 Move file to the local repository (how)
 you first commit the file to the local repository using git commit -m "message"
 "git log" to see who id what in the team [see the email, name, commit id, time and date]
 to configure a local user for the first time, use "git config --global user.email "email address"
 for the user name use "git config --global user.name "your name"
+
 
 MOVING FROM ONE VERSION TO ANOTHER (VERSIONING)
 revert to a particular version
