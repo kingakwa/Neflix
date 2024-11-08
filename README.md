@@ -14,6 +14,9 @@ you first commit the file to the local repository using git commit -m "message"
 "git log" to see who id what in the team [see the email, name, commit id, time and date]
 to configure a local user for the first time, use "git config --global user.email "email address"
 for the user name use "git config --global user.name "your name"
+git pull
+git push
+git status
 
 
 MOVING FROM ONE VERSION TO ANOTHER (VERSIONING)
